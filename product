@@ -1,0 +1,26 @@
+home-cooking-essentials/
+│
+├─ index.html
+├─ style.css
+├─ script.js
+└─ images/
+     ├─ chef-knife.jpg
+     ├─ cutting-board.jpg
+     ├─ blender.jpg
+     ├─ pressure-cooker.jpg
+     ├─ non-stick-pan.jpg
+     ├─ spice-rack.jpg
+     ├─ mixing-bowl.jpg
+     ├─ electric-kettle.jpg
+     ├─ measuring-cups.jpg
+     ├─ measuring-spoons.jpg
+     ├─ whisk.jpg
+     ├─ tongs.jpg
+     ├─ peeler.jpg
+     ├─ grater.jpg
+     ├─ saucepan.jpg
+     ├─ baking-tray.jpg
+     ├─ cake-pan.jpg
+     ├─ dish-rack.jpg
+     ├─ oven-mitts.jpg
+     └─ microfiber-cloth.jpg
